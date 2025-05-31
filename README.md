@@ -1,2 +1,2 @@
 # NumeroSecreto
-# Jogo do Número Screto ALURA
+# Jogo do Número Secreto ALURA
